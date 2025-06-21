@@ -1,5 +1,3 @@
-# Nash - Linux Shell in C
-
 ## Introduction
 
 This is an implementation of a Linux shell written in C language.
@@ -143,7 +141,5 @@ executed. (similar to normal Ubuntu environment).
 The code is completely modular with different `.c` files for each command, and a `main.c` binding them all together. `headers.h` entails all the necessary header files, and global variables. 
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
